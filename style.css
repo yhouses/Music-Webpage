@@ -1,5 +1,27 @@
 h1{
 	color:olive;
+	text-align: center;
+}
+
+h2{
+	color:#718D49;
+	text-align: left;
+}
+
+h3{
+	color:#718D49;
+	text-align: center;
+}
+
+h4{
+	color:#718D49;
+	text-align: left;
+	font-size:42px;
+}
+
+li{
+	text-align: center;
+	list-style-type: none;
 }
 
 .center {
@@ -13,4 +35,16 @@ body{
 	background-color: #F3E4C1;
 	color: #6B8349;
 	font-family: Georgia;
+	font-size: 26px;
 }
+
+.a{
+	width: 45%;
+	height: 45%;
+}
+
+.b{
+	width:42%;
+	height:42%;
+}
+
